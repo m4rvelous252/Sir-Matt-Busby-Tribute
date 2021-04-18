@@ -1,0 +1,51 @@
+Tribute page
+
+1.Layout
+banner
+
+img
+
+list
+
+quotes
+
+link to wiki
+
+2. needs for freecodecamp.
+ - id=main
+ - id=title
+ - div id=img-div
+ - img-div have a <img id=image>
+ - img-div have id=img-caption
+ - id=tribute-info
+ - id=tribute-link
+ - img responsive
+ - img center
+
+3. Sir Matt's timeline and achievements
+ 1909 Born in Bellshill, Scotland
+ 1928 Signed his first professional footballing contract with Manchester City
+ 1936 Signed for Liverpool F.C after winning the FA Cup with Manchester City and was imediately made captain
+ WWII Ended his playing career and served as a football coach in the Army Physical Training Corps
+ 1945 Was appointed Manchester United manager
+ 1948 Won the FA Cup, his first major awards as manager
+ 1952 Won the Championship, Manchester United's first since 1911
+ 1952-1956 Gradually introducing young players from the academy instead of spending money on new players. "The Busby Babes" was the nickname fans gave to that squad.
+ 1956 Won another Championship title and was offered job at Real Madrid C.F. However, Sir Matt declined the offer and responded "Manchester is my heaven".
+ 1958 While returning from a European Cup match against Red Star Belgrade, tragedy struck as the plane carrying Sir Matt and the "Busby Babes" crashed on the runway in Munich. The accidents took the lives of several ky players and injuring most of the first team. Sir Matt was in the hospital for nine weeks.
+ 1959-1967 Begin the rebuilding of Manchester United around the key players who survived as well as bringing in new signings, winning two more League titles in 1965, 1967 and an FA Cup in 1963.
+ 1968 Brought European glory to Manchester United for the first time in their history, only ten years after the Munich Disaster. He was knighted by the Queen shortly after that.
+ 1969 Announced his retirement from managing but still remains at Manchester United as a director
+ 1972 Was made a Knight Commander of St Gregory by the Pope
+ 1980 Was made Presidents of Manchester United
+ 1994 Dies at the age of 84.
+ 1996 A statue of him was erected outside Old Trafford stadium
+ 2002 Was made an inaugural inductee of the English Football Hall of Fame in recognition of his impact on the English game
+ 2008 Was inducted into the European Hall of Fame
+ 2019 Was voted the 11th Greatest Manager of All Time by France Football
+
+4. quotes
+“Resting in Interlaken, Germany was one thing and facing Old Trafford another. When I approached the ground and moved over the bridge along which our supporters had squeezed fifty abreast in there tens of thousands to shout for us I could scarcely bear to look. I knew the ghosts of the babes would still be there, and there they are still, and they will always be there as long as those who saw them still cross the bridge, young, gay, red ghosts on the green grass of Old Trafford.” On his return to Manchester after the Munich air disaster.
+
+5. wiki link
+https://en.wikipedia.org/wiki/Matt_Busby
